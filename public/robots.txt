@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+
+# Allow crawling of all content
+Allow: /images/
+Allow: /locales/
+Allow: /manifest.json
+
+# Disallow admin or private areas (if you have any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://tbadebating.com/sitemap.xml
+
+# Crawl delay (optional - be respectful to search engines)
+Crawl-delay: 1
+
+# Specific rules for different search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+# Block access to specific file types if needed
+# Disallow: /*.pdf$
+# Disallow: /*.doc$
+# Disallow: /*.docx$
+
+# Allow access to important resources
+Allow: /favicon.ico
+Allow: /manifest.json

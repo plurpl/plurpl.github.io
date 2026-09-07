@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Tournament Images -->
+  <url>
+    <loc>https://tbadebating.com/programs/model-un</loc>
+    <image:image>
+      <image:loc>https://tbadebating.com/images/tournaments/modelun.jpg</image:loc>
+      <image:title>Model UN Training Program</image:title>
+      <image:caption>Students participating in Model United Nations simulation</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://tbadebating.com/programs/debate</loc>
+    <image:image>
+      <image:loc>https://tbadebating.com/images/tournaments/awsdc/awsdc%201.jpg</image:loc>
+      <image:title>AWSDC Debate Competition</image:title>
+      <image:caption>Students competing in AWSDC debate tournament</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://tbadebating.com/about/our-team</loc>
+    <image:image>
+      <image:loc>https://tbadebating.com/images/coaches/ameen_p.jpg</image:loc>
+      <image:title>Coach Ameen P</image:title>
+      <image:caption>Experienced debate coach at TBA Academy</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

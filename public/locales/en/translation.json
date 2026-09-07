@@ -1,0 +1,571 @@
+{
+  "header": {
+    "schoolName": "TBA Academy",
+    "navigation": {
+      "about": "About",
+      "programs": "Programs",
+      "locations": "Locations",
+      "contact": "Contact"
+    },
+    "dropdown": {
+      "ourStory": "Our Story",
+      "ourTeam": "Our Team",
+      "debate": "Debate",
+      "mockTrial": "Mock Trial",
+      "modelUN": "Model UN",
+      "fourInOne": "4 in 1 Full Range Debate",
+      "businessCase": "Business Case Competition",
+      "fridayWorkshops": "Friday Workshops",
+      "newsAnalysis": "News Analysis",
+      "jsoc": "JSOC",
+      "brainBee": "Brain Bee"
+    },
+    "register": "Register"
+  },
+  "hero": {
+    "title": "TBA",
+    "subtitle": "Academy",
+    "tagline": "Learn Today, Lead Tomorrow"
+  },
+  "mainContent": {
+    "welcomeBanner": "Welcome to Woodsmith Regional School",
+    "sidebar": {
+      "academicPrograms": "Programs",
+      "studentServices": "The Team",
+      "applyNow": "Register"
+    },
+    "bodyText": {
+      "title": "TBA Academy empowers students with skills that go far beyond the classroom.",
+      "description": "We specialize in teaching public speaking, debate, Model United Nations (MUN), and mock trial to students of all skill levels. Our programs help develop critical thinking, communication skills, and confidence in public speaking.",
+      "learnMore": "Learn More"
+    },
+    "contactForm": {
+      "title": "Contact Us",
+      "fullName": "Full Name",
+      "emailAddress": "Email Address",
+      "phoneNumber": "Phone Number",
+      "gradeLevel": "Select Grade Level",
+      "grade7": "7th Grade",
+      "grade8": "8th Grade",
+      "grade9": "9th Grade",
+      "grade10": "10th Grade",
+      "grade11": "11th Grade",
+      "grade12": "12th Grade",
+      "message": "Message",
+      "submit": "Submit",
+      "successMessage": "Thank you! Your message has been sent successfully.",
+      "errorMessage": "Sorry, there was an error sending your message. Please try again.",
+      "sending": "Sending..."
+    },
+    "studentQuote": {
+      "text": "I love debate because it's introduced me to an amazing community. I've met a lot of outstanding people, especially during in person tournaments and classes. Debate has taught me two really important things. One, I've expanded my knowledge around politics and current events, but two and most importantly, I've learned to always think critically and with an open mind during discussions.",
+      "author": "Lucy Y, Grade 12"
+    }
+  },
+  "infoSection": {
+    "title": "Excellence in Education",
+    "subtitle": "Building Tomorrow's Leaders",
+    "description1": "At TBA Academy, we believe in fostering debate excellence while nurturing well-rounded students. Our comprehensive programs are designed to challenge students intellectually while providing them with the critical thinking and communication skills they need to succeed in an ever-changing world.",
+    "description2": "Our dedicated coaches are committed to creating an engaging learning environment where every student can thrive and reach their full potential. We emphasize logical reasoning, persuasive communication, and collaborative problem-solving in all aspects of our educational approach.",
+    "description3": "With proven debate methodologies and innovative teaching techniques, we prepare students not just for competitive success, but for life beyond the classroom."
+  },
+  "locationSection": {
+    "title": "Our Locations",
+    "mainLocation": {
+      "title": "TBA Academy Headquarters",
+      "description": "Our primary location in Vancouver, serving as the heart of TBA Academy's operations and home to our workshops and tournaments.",
+      "address": "Langara College",
+      "phone": "778-882-2237",
+      "email": "tbadebating@gmail.com"
+    },
+    "westVancouver": {
+      "title": "West Vancouver Branch",
+      "manager": "Manager: Grace",
+      "tel": "Tel: 778-879-3266",
+      "address": "210-1760 Marine Dr, West Vancouver, BC"
+    },
+    "southSurrey": {
+      "title": "South Surrey Branch",
+      "manager": "Manager: Mary",
+      "tel": "Tel: 778-991-1595",
+      "address": "300-15300 Croydon Dr, South Surrey BC"
+    },
+    "burnaby": {
+      "title": "Burnaby Branch",
+      "manager": "Manager: Echo",
+      "tel": "Tel: 778-987-5595",
+      "address": "200-4789 Kingsway, Burnaby, BC"
+    }
+  },
+  "classesSection": {
+    "title": "Classes We Offer",
+    "description": "TBA Academy offers 9 world-class programs designed to support every student and prepare them for future success.",
+    "debate": {
+      "title": "Debate",
+      "description": "Develop critical thinking and persuasive communication skills through structured debate competitions and practice sessions."
+    },
+    "modelUN": {
+      "title": "Model UN",
+      "description": "Experience international diplomacy and global issues through United Nations simulations and committee work."
+    },
+    "fourInOne": {
+      "title": "4-in-1 Full Range Debating",
+      "description": "A comprehensive program for Grades 4-7 that integrates debate, public speaking, Model UN, and news analysis components."
+    },
+    "publicSpeaking": {
+      "title": "Public Speaking",
+      "description": "Build confidence and master the art of effective communication for various audiences and settings."
+    },
+    "mockTrial": {
+      "title": "Mock Trial",
+      "description": "Learn legal reasoning and courtroom procedures through simulated trial experiences and case analysis."
+    },
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "programs": "Programs",
+    "allPrograms": "All Programs",
+    "debate": "Debate",
+    "mockTrial": "Mock Trial",
+    "modelUN": "Model UN",
+    "fourInOne": "4 in 1",
+    "businessCase": "Case Competition",
+    "fridayWorkshops": "Friday Workshops",
+    "newsAnalysis": "News Analysis",
+    "jsoc": "JSOC",
+    "brainBee": "Brain Bee",
+    "aboutUs": "About Us",
+    "about": "About",
+    "ourStory": "Our Story",
+    "ourTeam": "Our Team",
+    "achievements": "Achievements",
+    "contactSupport": "Contact",
+    "contactUs": "Contact Us",
+    "register": "Register",
+    "requestInfo": "Request Info",
+    "visitCampus": "Visit Campus",
+    "contactInformation": "Contact Information",
+    "address": "210-1760 Marine Dr, West Vancouver, BC",
+    "cityState": "Vancouver, BC V7V 1J4",
+    "phone": "Phone: 778-882-2237",
+    "email": "Email: tbadebating@gmail.com"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "blurb": "We are reachable 7 days a week so feel free to contact us via phone, email, or register below whenever works best for you. You'll hear back from us within the week!",
+    "phone": {
+      "title": "Phone",
+      "number": "778-882-2237"
+    },
+    "email": {
+      "title": "Email",
+      "address": "tbadebating@gmail.com"
+    },
+    "address": {
+      "title": "Address",
+      "street": "210-1760 Marine Dr",
+      "city": "West Vancouver, BC V7V 1J4"
+    },
+    "register": {
+      "title": "Ready to Get Started?",
+      "description": "Join our programs and start your journey in debate, public speaking, and leadership.",
+      "button": "Register Now"
+    },
+    "registerPage": {
+      "title": "Registration",
+      "blurb": "We'll get back to you within a week to discuss program details and answer any questions you may have. We look forward to communicating with you!",
+      "preferredLanguage": "Preferred Language",
+      "selectLanguage": "Select Language",
+      "english": "English",
+      "mandarin": "Mandarin",
+      "location": "Location",
+      "selectLocation": "Select Location",
+      "burnaby": "Burnaby",
+      "southSurrey": "South Surrey",
+      "westVancouver": "West Vancouver",
+      "online": "Online",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "studentName": "Student Name",
+      "studentGrade": "Student Grade",
+      "gradePlaceholder": "e.g., Grade 7, Grade 10",
+      "submit": "Submit Registration",
+      "successMessage": "Thank you! We'll get back to you within a week to discuss program details and answer any questions you may have.",
+      "errorMessage": "Sorry, there was an error submitting your registration. Please try again or contact us directly."
+    }
+  },
+  "ourStory": {
+    "title": "Our Story",
+    "section1": {
+      "title": "TBA started in 2018 as a small group of enthusiastic students who wanted to learn more about debate and public speaking.",
+      "content": "Today TBA Academy has inspired many students to become successful in their future careers. With over 100 concurrent students, TBA is one of the largest and most successful debate and public speaking academies in the area. We continue to grow every day with 3 locations in the greater Vancouver area to allow all students to have access to our programs."
+    },
+    "section2": {
+      "title": "Our Vision",
+      "content": "To be the leading force in developing the next generation of critical thinkers, confident communicators, and global leaders. We envision a world where every student has the opportunity to develop their voice, challenge assumptions, and contribute meaningfully to society through the power of debate, public speaking, and international diplomacy. Our commitment extends beyond academic excellence to fostering empathy, cultural understanding, and the courage to stand up for what they believe in."
+    }
+  },
+  "ourTeamPage": {
+    "title": "Meet Our Team",
+    "subtitle": "Dedicated coaches committed to your success in debate, Model UN, and public speaking",
+    "achievements": "Achievements",
+    "coachTitles": {
+      "headCoach": "Head Coach",
+      "debateAndPublicSpeakingCoach": "Debate and Public Speaking Coach",
+      "debateInstructor": "Debate Instructor",
+      "modelUNInstructor": "Model UN Instructor",
+      "assistantCoach": "Assistant Coach"
+    }
+  },
+  "programs": {
+    "pageTitle": "Our Programs",
+    "pageSubtitle": "Discover our comprehensive curriculum designed to develop critical thinking, leadership skills, and academic excellence in students of all ages.",
+    "debate": {
+      "title": "Debate Program",
+      "name": "Debate",
+      "description": "Critical thinking and persuasion",
+      "section1": {
+        "title": "Comprehensive Debate Training for All Skill Levels",
+        "content": "Our debate program is designed to develop critical thinking, persuasive communication, and public speaking skills. Students learn various debate formats including British Parliamentary, World Schools, and Canadian Parliamentary styles. Through structured competitions, practice sessions, and expert coaching, students build confidence and master the art of effective argumentation."
+      },
+      "section2": {
+        "title": "Why Choose Debate?",
+        "content": "Debate students develop essential life skills including research abilities, logical reasoning, and the confidence to speak in front of audiences. Our program has produced numerous champions at local, national, and international competitions. Students learn to think on their feet, construct compelling arguments, and respectfully engage with opposing viewpoints."
+      },
+      "coaches": {
+        "title": "Our Head Coaches",
+        "description": "Our team includes WUDC top speakers, numerous champions from top tournaments, national team members, and national team coaches, among other distinguished debaters."
+      }
+    },
+    "mockTrial": {
+      "title": "Mock Trial Program",
+      "name": "Mock Trial",
+      "description": "Experience the legal system firsthand",
+      "section1": {
+        "title": "Experience the Legal System Through Interactive Simulations",
+        "content": "Our Mock Trial program provides students with hands-on experience in the legal system through realistic courtroom simulations. Students learn to analyze legal cases, develop arguments, and present evidence in a structured trial environment. The program covers criminal and civil law procedures, helping students understand how the justice system works while developing critical thinking and public speaking skills."
+      },
+      "section2": {
+        "title": "Why Choose Mock Trial?",
+        "content": "Mock Trial participants develop essential skills including legal reasoning, evidence analysis, persuasive argumentation, and courtroom etiquette. Students gain confidence in public speaking, learn to think critically under pressure, and develop a deep understanding of legal principles. Our program prepares students for future careers in law, politics, or any field requiring analytical thinking and strong communication skills."
+      }
+    },
+    "modelUN": {
+      "title": "Model United Nations",
+      "name": "Model UN",
+      "description": "International diplomacy and global issues",
+      "section1": {
+        "title": "Experience International Diplomacy and Global Leadership",
+        "content": "Our Model United Nations program offers students the opportunity to experience international diplomacy and global issues through United Nations simulations and committee work. Students represent different countries, research complex global challenges, and develop solutions through negotiation, debate, and collaboration with peers from around the world."
+      },
+      "section2": {
+        "title": "Why Choose Model UN?",
+        "content": "Model UN participants develop essential skills including research methodology, public speaking, negotiation, and global awareness. Students learn about international relations, current events, and the United Nations system. The program fosters leadership, critical thinking, and the ability to work effectively in diverse teams while addressing real-world global challenges."
+      }
+    },
+    "fourInOne": {
+      "title": "4-in-1 Full Range Debating",
+      "name": "4 in 1 Full Range Debate",
+      "description": "Comprehensive debate and public speaking",
+      "section1": {
+        "title": "4-in-1 Full Range Debating for Grades 4-7",
+        "content": "This course is designed for younger students in Grades 4 to 7. Unlike a typical debate or public speaking class, it integrates both approaches with a Model United Nations component and a news analysis component. It offers a well-rounded and balanced experience, giving students a taste of each area."
+      },
+      "section2": {
+        "title": "Why Choose 4-in-1?",
+        "content": "This comprehensive approach allows students to explore what they enjoy and what they don't. Sometimes, a student may excel in one area and choose to pursue it further, even if they hadn't previously taken a specific class in that subject, such as MUN. Students develop foundational skills across multiple disciplines while discovering their passions and strengths."
+      }
+    },
+    "businessCase": {
+      "title": "Business Case Competition Program",
+      "name": "Business Case Competition",
+      "description": "Analyze real business scenarios",
+      "section1": {
+        "title": "Introduction to Business Problem-Solving",
+        "content": "The case competition course is designed to introduce students to the world of business problem-solving and how to deliver strong presentations to prepare them for competing in competitions."
+      },
+      "section2": {
+        "title": "Why Choose Business Case Competition?",
+        "content": "Students develop essential business analysis skills including strategic thinking, market research, financial analysis, and professional presentation techniques. Our program prepares students for real-world business challenges and competitive case competitions at the local, national, and international levels."
+      }
+    },
+    "fridayWorkshops": {
+      "title": "Friday Workshops Program",
+      "name": "Friday Workshops",
+      "description": "Interactive skills and leadership sessions",
+      "section1": {
+        "title": "Advanced In-Person Learning Experience",
+        "content": "The Friday Workshop is held on select Fridays each semester and meets in-person, similar to debate clubs at Canadian universities. The workshop is structured into two sections. The first section is a seminar prepared by coaches on specific debate-related topics. Unlike the regular topics discussed in online classes, the in-person topics are more advanced and sophisticated."
+      },
+      "section2": {
+        "title": "Why Choose Friday Workshops?",
+        "content": "The second section involves practice debates where students are grouped into teams to debate against each other. This familiarizes them with in-person debating and prepares them for in-person tournaments. Students develop advanced debate skills, build confidence in face-to-face communication, and gain valuable tournament preparation experience."
+      }
+    },
+    "newsAnalysis": {
+      "title": "News Analysis Program",
+      "name": "News Analysis",
+      "description": "Media literacy and analytical skills",
+      "section1": {
+        "title": "Weekly Video News Summaries with Context",
+        "content": "TBA's News Channel provides a video summary of the week's most important news stories, along with context to help students understand why they are happening and what they mean for the world. Each video combines multiple news stories about a single topic to give students a balanced overview of events. The videos incorporate up-to-date news with historical background and analysis to provide viewers with a sense of what is at stake."
+      },
+      "section2": {
+        "title": "Why Choose News Analysis?",
+        "content": "This is especially beneficial for students who study debate and participate in debate competitions, as it helps them stay informed about current events and gain valuable facts, insights, and perspectives. Students develop critical media literacy skills, learn to analyze complex global issues, and build a strong foundation of current events knowledge essential for debate success."
+      }
+    },
+    "jsoc": {
+      "title": "JSOC Program",
+      "name": "JSOC",
+      "description": "Junior Science Olympiad",
+      "section1": {
+        "title": "Junior Science Olympiad for Top Intermediate Students",
+        "content": "Designed to provide top intermediate science students (12- 15 years old) the opportunity to enhance and test their theoretical and practical lab skills in Chemistry, Physics and Biology. Studentts who attend this class typically grow their interest in science and develop a strong foundation of science knowledge."
+      },
+      "section2": {
+        "title": "Why Choose JSOC?",
+        "content": "The top 6 students will represent Canada at the International Junior Science Olympiad. The Stage 1 exam usually takes place in February, and the Stage 2 exam in May. Top students will qualify for the National Camp in September. After attending the camp, students will take the Stage 3 qualifying exam to compete for the six spots on the National Team."
+      }
+    },
+    "brainBee": {
+      "title": "Brain Bee Program",
+      "name": "Brain Bee",
+      "description": "Neuroscience knowledge competition",
+      "section1": {
+        "title": "Canadian National Neuroscience Competition",
+        "content": "The Canadian National Brain Bee is a neuroscience competition for high school students, grades 9 through 12. Students study brain and neuroscience research topics including memory, sleep, intelligence, emotion, perception, stress, aging, brain imaging, neurology, neurotransmitters, genetics, brain disease, and more."
+      },
+      "section2": {
+        "title": "Why Choose Brain Bee?",
+        "content": "To compete in the Canadian National, students must first compete in a regional brain bee competition in Canada. The top place winner of each official regional brain bee will advance to the Canadian National level of competition. Finally, the top place champion of the Canadian National Brain Bee will advance to the next level of competition: the International Brain Bee. The Vancouver Brain Bee is usually held in late April."
+      }
+    }
+  },
+  "coaches": {
+    "chris_p": {
+      "achievement1": "7+ years of debate coaching experience, students selected for Team Canada",
+      "achievement2": "UBC Law School graduate student",
+      "achievement3": "2019 Yale University Debate Tournament - Finalist",
+      "achievement4": "2017 Cambridge University Debate Tournament - Champion"
+    },
+    "deborah_w": {
+      "achievement1": "2020 Canadian University Debate Championship - Champion",
+      "achievement2": "Debate coach at top Toronto private high school",
+      "achievement3": "Students achieved 2nd place at Cambridge University Debate Tournament",
+      "achievement4": "2018 Asian Cup Debate Tournament - Champion Team Coach"
+    },
+    "charlie_p": {
+      "achievement1": "Canadian National French Champion 2017",
+      "achievement2": "Pan-American French Debate Champion 2016",
+      "achievement3": "Debate and Public Speaking Coach at York House School 2018-2023",
+      "achievement4": "Students qualified for Team Canada, placed at prestigious tournaments"
+    },
+    "jacob_s": {
+      "achievement1": "2022 Canadian BP National Champion",
+      "achievement2": "2022 Yale Intervarsity Finalist",
+      "achievement3": "2023 World Championship 18th Breaking Team",
+      "achievement4": "2020 Canadian Parliamentary Nationals Top Speaker"
+    },
+    "giann_l": {
+      "achievement1": "2024 CUSID HST - Finalist",
+      "achievement2": "Western Canada BP Championships - 7th Speaker, Quarter-finalist",
+      "achievement3": "2024 UBC Spring HST - Semi-finalist and Top Breaking Team, 9th Speaker",
+      "achievement4": "National Fall Debate Open - Semi-finalist, 3rd Speaker"
+    },
+    "alex_l": {
+      "achievement1": "2020 - 2022 Team Canada Member",
+      "achievement2": "2022 Senior Nationals Top Speaker and Semifinalist",
+      "achievement3": "2022 Oxford Schools Top Speaker and Finalist",
+      "achievement4": "2022 Canadian BP Nationals Top Novice Speaker and Semifinalist"
+    },
+    "adam_b": {
+      "achievement1": "President of University of Toronto Debate Club",
+      "achievement2": "2023 World University Debate Championship - Top 16",
+      "achievement3": "2022 Canadian Australs Debate - Champion",
+      "achievement4": "2022 Meta Intervarsity - Finalist"
+    },
+    "sean_o": {
+      "achievement1": "Former Team Canada Debater",
+      "achievement2": "HK Debate Open WSDC 2020 Semifinalist, top speaker",
+      "achievement3": "EurOpen Debating Championship 2021 Octofinalist",
+      "achievement4": "Stanford World Schools Invitational 2021 Finalist"
+    },
+    "ameen_p": {
+      "achievement1": "University of Toronto Mock Trial Competition - Winner",
+      "achievement2": "Western Mock Trial Competition - Winner and Best Witness",
+      "achievement3": "North American University Debate Championship Novice Finalist",
+      "achievement4": "Harvard WSDC - 4th Place"
+    },
+    "tanvir_s": {
+      "achievement1": "2021 World Championship ESL Quarterfinals Judge",
+      "achievement2": "2021 Asian BP Championship Octofinalist Judge",
+      "achievement3": "2022 Hart House Intervarsity Grand Finals Chair",
+      "achievement4": "2022 Uhuru Worlds Schools Finals Chair"
+    },
+    "elgin_l": {
+      "achievement1": "CNDF Debate Seagram Debate Tournament - Champion",
+      "achievement2": "BP Debate North American University Debate Championship - Finalist",
+      "achievement3": "BP Debate Birmingham Open - Youth Champion",
+      "achievement4": "WSDC Debate World High School Debate Championship TOP5 team"
+    },
+    "saara_m": {
+      "achievement1": "5+ years of coaching experience, students qualified for Team Canada",
+      "achievement2": "2017-2019 Team Canada member, attended 2018 World Championship",
+      "achievement3": "2018 Harvard World Schools Champion",
+      "achievement4": "President of University of Toronto Debate Club"
+    },
+    "annie_l": {
+      "achievement1": "2019 Canadian National BP Debate Championship - Champion",
+      "achievement2": "2021 Stanford World Schools Debate Tournament - Finalist",
+      "achievement3": "2019 Canadian High School BP Nationals - National Champion",
+      "achievement4": "2021 Hart House Debate Tournament - Finalist"
+    },
+    "madeline_k": {
+      "achievement1": "2021-2022 and 2022-2023 Canadian International Model United Nations Secretary-General",
+      "achievement2": "2021 Harvard World Schools Invitational Octofinalist",
+      "achievement3": "2021 Independent Schools' Public Speaking Competition Finalist",
+      "achievement4": "2020 UBC Spring High Schools Finalist"
+    },
+    "max_w": {
+      "achievement1": "2022 Harvard World Schools Debate Championship - Champion",
+      "achievement2": "2022 World Schools Debate Championship - Quarterfinalist",
+      "achievement3": "British Parliamentary Debate Champion, Best Speaker",
+      "achievement4": "Champion Harvard WSDC 2022"
+    },
+    "max_c": {
+      "achievement1": "2024-2025 Canadian International Model United Nations Chief of Staff",
+      "achievement2": "2023 Under-Secretary-General of Delegate Affairs",
+      "achievement3": "7x Committee Director, 5x Best Delegate",
+      "achievement4": "1st Place, Enhance Competition 2025"
+    },
+    "william_c": {
+      "achievement1": "President - UBC Debate Society 2025",
+      "achievement2": "Vice President - UBC Debate Society 2024",
+      "achievement3": "Tournament Director - UBC IV 2024, UBC Fall HST 2024, UBC Spring HST 2025",
+      "achievement4": "Chief Adjudicator: UBC Fall HST 2023"
+    },
+    "hannah_c": {
+      "achievement1": "UBC Debate Society External Vice President/Chief Adjudicator/Equity Officer",
+      "achievement2": "Pacific Academy High School Debate Club President",
+      "achievement3": "2024 Canadian University Debate Nationals Best Novice Team Open Division Quarterfinalist",
+      "achievement4": "2024 UBC WSDC Best Speaker, Team Quarterfinalist"
+    },
+    "varun_l": {
+      "achievement1": "Grand Finalist - Carleton BP Championships 2022",
+      "achievement2": "Breaking Adjudicator - Johns Hopkins University Open 2022",
+      "achievement3": "Novice Finalist - BP Championships 2022",
+      "achievement4": "Breaking Adjudicator - Hart House High Schools 2023"
+    },
+    "meg_k": {
+      "achievement1": "Cornell University graduate student",
+      "achievement2": "2023 North American University Debate Championship - Champion",
+      "achievement3": "2022, 2023 World University Debate Championship Breaking Rounds",
+      "achievement4": "2023 North American Women's Debate Championship - Champion, Best Speaker"
+    },
+    "naomi_p": {
+      "achievement1": "WUDC Second Speaker",
+      "achievement2": "NAUDC Champion, Top Speaker",
+      "achievement3": "HWS Round Robin Champion",
+      "achievement4": "Cambridge IV Champion, Top Speaker"
+    },
+    "tejas_s": {
+      "achievement1": "2024 World University Debate Championship (WUDC) Finalist, Best Speaker",
+      "achievement2": "2023, 2024 HWS Round Robin Champion - Best Speaker",
+      "achievement3": "2024 NAUDC North American University Debate Championship Finalist, 2nd Best Speaker",
+      "achievement4": "2022 US National Championships Champion - Best Speaker"
+    },
+    "matt_c": {
+      "achievement1": "WUDC, Open Best Speaker and Top Breaking Team",
+      "achievement2": "EUDC, Open Finalist and Third Open Speaker",
+      "achievement3": "HWS Round Robin, top breaking team",
+      "achievement4": "Oxford IV 2022, Champion and fourth speaker"
+    },
+    "pranav_a": {
+      "achievement1": "2023 Yale Debate Tournament - Quarterfinalist",
+      "achievement2": "2023 Western Debate Tournament - Finalist",
+      "achievement3": "Organized and judged NAUDC 2024",
+      "achievement4": "Head Coach of Team Taiwan in 2023"
+    },
+    "jasmine_z": {
+      "achievement1": "2025 French Debate Nationals 7th Best Speaker",
+      "achievement2": "2025 UBC High School Debate Tournament Finalist, 2nd Best Speaker",
+      "achievement3": "2025 Western WSDC Octofinalist",
+      "achievement4": "2024 BP Provincials 8th Best Speaker"
+    },
+    "bonnie_l": {
+      "achievement1": "2023 Cambridge ICYD Debate Tournament 9th Best Speaker",
+      "achievement2": "2023 NSDA Canadian Worlds Style Nationals, 5th Place Team",
+      "achievement3": "2022 Oxford ICYD Debate Tournament Novice Finalist",
+      "achievement4": "2022 Canadian National Junior BP Finalist"
+    },
+    "lucy_y": {
+      "achievement1": "2024 CUSID High School Tournament - Open Semifinalist",
+      "achievement2": "2023 UBC Fall High School Tournament - Silver Champion",
+      "achievement3": "2024 Senior Canadian Speech Nationals - Debate Finalist",
+      "achievement4": "2024 BC Qualifiers for Team Canada Tryouts - Top 12 Finalist"
+    },
+    "edward_a": {
+      "achievement1": "2024 UBC Spring High School Tournament Finalist",
+      "achievement2": "Lower Mainland North Regionals Champion",
+      "achievement3": "2023 Canadian National Fall Debate Open Semifinalist, Best Speaker",
+      "achievement4": "2024 BP Provincials 9th Best Speaker"
+    },
+    "george_w": {
+      "achievement1": "Canadian National Open Grand Finalist",
+      "achievement2": "2024 Lower Mainland North Regionals - Champion Team",
+      "achievement3": "Top 4 Provincial Speaker",
+      "achievement4": "2024 Western Winter High School Tournament - Semifinalist, 9th Speaker"
+    },
+    "aiden_h": {
+      "achievement1": "2024 Western BP Debate Tournament Best Speaker 1st Place",
+      "achievement2": "2024 Paris World Schools Debate Tournament Best Speaker 1st Place",
+      "achievement3": "2023 UOttawa Debate Tournament Champion, 2nd Best Speaker",
+      "achievement4": "2023 UOttawa CNDF Debate Tournament Champion"
+    },
+    "jack_w": {
+      "achievement1": "Sir Winston Churchill Secondary School Debate Club President",
+      "achievement2": "Organized Sir Winston Churchill Debate Tournament, proceeds donated to Children's Hospital",
+      "achievement3": "LMDS Executive member",
+      "achievement4": "Lower Mainland Debate Society - Executive and Volunteer Coach"
+    },
+    "henry_g": {
+      "achievement1": "2022 Western Fall High School Tournament Semifinalist",
+      "achievement2": "2022 SFU World Schools Debate Tournament Gold Division Finalist",
+      "achievement3": "2022 CUSID High School Tournament Junior Division Top 5",
+      "achievement4": "Magee Debate Club President since 2022"
+    },
+    "ashley_p": {
+      "achievement1": "2024 National French Debate Tournament 9th Place",
+      "achievement2": "Western BP Debate Tournament Quarterfinalist",
+      "achievement3": "2025 French National Debate Tournament Finalist, 3rd Breaking Team",
+      "achievement4": "2023 Hart House Summer Split Champion"
+    },
+    "miranda_s": {
+      "achievement1": "2023 BC BP Provincials Finalist, qualified for Nationals",
+      "achievement2": "Queen's University High School Summer Debate Tournament Junior Division Champion",
+      "achievement3": "2024 UBC Spring High School Tournament Semifinalist",
+      "achievement4": "2024 UBC Fall High School Tournament Semifinalist"
+    },
+    "briana_l": {
+      "achievement1": "Brown University sophomore, majoring in Philosophy and Sociology",
+      "achievement2": "Brown Debate Union member, 3 years of debate coaching experience",
+      "achievement3": "Champion of 2020 Georgetown University Fall Debate Tournament",
+      "achievement4": "9th Speaker at 2020 Yale University Debate Tournament"
+    },
+    "emily_z": {
+      "achievement1": "Team Canada Debater 2024/2025",
+      "achievement2": "2nd Speaker - CNDF Nationals",
+      "achievement3": "Champion BC BP Provincials 2023/2024",
+      "achievement4": "CNDF Junior Nationals 2021"
+    },
+    "emily_c": {
+      "achievement1": "Multiple years of coaching business competitions",
+      "achievement2": "WUDC 2025 - 3rd Canadian Team",
+      "achievement3": "CUDC 2025 Chief Adjudicator",
+      "achievement4": "Doxbridge 2021 - Finalist"
+    }
+  }
+}

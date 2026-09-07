@@ -1,0 +1,571 @@
+{
+  "header": {
+    "schoolName": "TBA Academy",
+    "navigation": {
+      "about": "关于我们",
+      "programs": "课程项目",
+      "locations": "校区位置",
+      "contact": "联系我们"
+    },
+    "dropdown": {
+      "ourStory": "学院故事",
+      "ourTeam": "师资团队",
+      "debate": "辩论课程",
+      "mockTrial": "模拟法庭",
+      "modelUN": "模拟联合国",
+      "fourInOne": "四合一综合辩论课程",
+      "businessCase": "商业案例分析",
+      "fridayWorkshops": "周五工作坊",
+      "newsAnalysis": "新闻分析",
+      "jsoc": "JSOC",
+      "brainBee": "脑力竞赛"
+    },
+    "register": "立即报名"
+  },
+  "hero": {
+    "title": "TBA",
+    "subtitle": "Academy",
+    "tagline": "温哥华领先的辩论培训机构"
+  },
+  "mainContent": {
+    "welcomeBanner": "欢迎来到 Woodsmith 区域学校",
+    "sidebar": {
+      "academicPrograms": "学院故事",
+      "studentServices": "团队介绍",
+      "applyNow": "立即报名"
+    },
+    "bodyText": {
+      "title": "TBA Academy 为学生赋予课堂之外的终身技能。",
+      "description": "我们专注于教授公众演讲、辩论、模拟联合国（MUN）以及模拟法庭，适合各个水平的学生。课程旨在培养批判性思维、沟通能力和公众演讲的自信心。",
+      "learnMore": "了解更多"
+    },
+    "contactForm": {
+      "title": "联系我们",
+      "fullName": "姓名",
+      "emailAddress": "电子邮箱",
+      "phoneNumber": "联系电话",
+      "gradeLevel": "选择年级",
+      "grade7": "七年级",
+      "grade8": "八年级",
+      "grade9": "九年级",
+      "grade10": "十年级",
+      "grade11": "十一年级",
+      "grade12": "十二年级",
+      "message": "留言",
+      "submit": "提交",
+      "successMessage": "谢谢！您的信息已成功发送。",
+      "errorMessage": "抱歉，发送失败，请重试。",
+      "sending": "发送中..."
+    },
+    "studentQuote": {
+      "text": "我喜欢辩论，因为它让我遇到了一个很棒的社区。特别是在现场比赛和课堂上，我认识了很多优秀的人。辩论教会了我两件非常重要的事：第一，我拓展了自己在政治和时事方面的知识；第二也是最重要的，我学会了在讨论中保持批判性思维和开放的心态。",
+      "author": "Lucy Y，十二年级"
+    }
+  },
+  "infoSection": {
+    "title": "卓越教育",
+    "subtitle": "培养未来领袖",
+    "description1": "在 TBA Academy，我们致力于培养辩论能力的同时，塑造全面发展的学生。我们的综合课程旨在激发学生的思维挑战，并赋予他们在瞬息万变的世界中脱颖而出的批判性思维与沟通能力。",
+    "description2": "敬业的教练团队为学生营造积极互动的学习环境，让每位学生都能茁壮成长，发挥潜力。我们在教学中强调逻辑推理、说服力沟通以及团队协作解决问题的能力。",
+    "description3": "凭借成熟的辩论训练方法和创新的教学技巧，我们不仅让学生在比赛中取得佳绩，更为他们的未来人生做好准备。"
+  },
+  "locationSection": {
+    "title": "校区位置",
+    "mainLocation": {
+      "title": "主校区",
+      "description": "我们位于西温哥华的旗舰校区，是TBA学院运营的核心，提供最全面的课程项目。",
+      "address": "Langara College",
+      "phone": "778-882-2237",
+      "email": "tbadebating@gmail.com"
+    },
+    "westVancouver": {
+      "title": "西温哥华校区",
+      "manager": "负责人：Grace",
+      "tel": "电话：778-879-3266",
+      "address": "210-1760 Marine Dr, West Vancouver, BC"
+    },
+    "southSurrey": {
+      "title": "南素里校区",
+      "manager": "负责人：Mary",
+      "tel": "电话：778-991-1595",
+      "address": "300-15300 Croydon Dr, South Surrey BC"
+    },
+    "burnaby": {
+      "title": "本拿比校区",
+      "manager": "负责人：Echo",
+      "tel": "电话：778-987-5595",
+      "address": "200-4789 Kingsway, Burnaby, BC"
+    }
+  },
+  "classesSection": {
+    "title": "课程介绍",
+    "description": "TBA Academy 提供9个世界级课程项目，旨在支持每位学生并为他们的未来成功做好准备。",
+    "debate": {
+      "title": "辩论",
+      "description": "通过结构化的比赛与练习，培养批判性思维与有说服力的沟通能力。"
+    },
+    "modelUN": {
+      "title": "模拟联合国",
+      "description": "在模拟联合国的情景中体验国际外交，探索全球议题，参与委员会讨论。"
+    },
+    "fourInOne": {
+      "title": "四合一综合辩论课程",
+      "description": "为四至七年级学生打造的综合课程，融合辩论、公众演讲、模拟联合国以及新闻分析。"
+    },
+    "publicSpeaking": {
+      "title": "公众演讲",
+      "description": "提升自信，掌握在不同场合与受众面前进行有效沟通的技巧。"
+    },
+    "mockTrial": {
+      "title": "模拟法庭",
+      "description": "通过模拟庭审和案例分析学习法律推理与法庭程序。"
+    },
+    "learnMore": "了解更多"
+  },
+  "footer": {
+    "programs": "课程项目",
+    "allPrograms": "所有课程",
+    "debate": "辩论",
+    "mockTrial": "模拟法庭",
+    "modelUN": "模拟联合国",
+    "fourInOne": "四合一",
+    "businessCase": "案例分析",
+    "fridayWorkshops": "周五工作坊",
+    "newsAnalysis": "新闻分析",
+    "jsoc": "JSOC",
+    "brainBee": "脑力竞赛",
+    "aboutUs": "关于我们",
+    "about": "关于",
+    "ourStory": "学院故事",
+    "ourTeam": "师资团队",
+    "achievements": "成就",
+    "contactSupport": "联系我们",
+    "contactUs": "联系方式",
+    "register": "报名",
+    "requestInfo": "索取信息",
+    "visitCampus": "预约参观",
+    "contactInformation": "联系方式",
+    "address": "210-1760 Marine Dr, West Vancouver, BC",
+    "cityState": "Vancouver, BC V7V 1J4",
+    "phone": "电话：778-882-2237",
+    "email": "邮箱：tbadebating@gmail.com"
+  },
+  "contact": {
+    "title": "取得联系",
+    "blurb": "我们每周 7 天均可联系，您可以通过电话、电子邮件或填写报名表与我们沟通，我们会在一周内回复您！",
+    "phone": {
+      "title": "电话",
+      "number": "778-882-2237"
+    },
+    "email": {
+      "title": "邮箱",
+      "address": "tbadebating@gmail.com"
+    },
+    "address": {
+      "title": "地址",
+      "street": "210-1760 Marine Dr",
+      "city": "West Vancouver, BC V7V 1J4"
+    },
+    "register": {
+      "title": "准备好开始了吗？",
+      "description": "加入我们的课程，开启您的辩论、公众演讲与领导力之旅。",
+      "button": "立即报名"
+    },
+    "registerPage": {
+      "title": "报名表",
+      "blurb": "我们会在一周内与您联系，介绍课程详情并解答您的疑问，期待与您交流！",
+      "preferredLanguage": "首选语言",
+      "selectLanguage": "选择语言",
+      "english": "英语",
+      "mandarin": "中文",
+      "location": "校区",
+      "selectLocation": "选择校区",
+      "burnaby": "本拿比",
+      "southSurrey": "南素里",
+      "westVancouver": "西温哥华",
+      "online": "线上",
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "邮箱",
+      "phoneNumber": "电话",
+      "studentName": "学生姓名",
+      "studentGrade": "学生年级",
+      "gradePlaceholder": "例如：七年级、十年级",
+      "submit": "提交报名",
+      "successMessage": "谢谢！我们会在一周内与您联系，介绍课程详情并解答您的疑问。",
+      "errorMessage": "抱歉，报名提交失败，请重试或直接联系我们。"
+    }
+  },
+  "ourStory": {
+    "title": "我们的故事",
+    "section1": {
+      "title": "TBA 成立于 2018 年，起初是由一群热爱辩论和演讲的学生组成的小团队。",
+      "content": "如今，TBA Academy 已经激励了许多学生在未来的职业生涯中取得成功。我们现有超过 100 名在读学生，是本地区最大、最成功的辩论与演讲学院之一。我们每天都在不断成长，在大温哥华地区设有 3 个校区，让所有学生都能接触到我们的课程。"
+    },
+    "section2": {
+      "title": "我们的愿景",
+      "content": "成为培养下一代批判性思考者、自信沟通者和全球领导者的领军力量。我们憧憬一个世界，在那里，每位学生都有机会发展自己的声音，挑战既有观念，并通过辩论、演讲和国际外交的力量，为社会作出有意义的贡献。我们的承诺不仅限于学术卓越，还包括培养同理心、文化理解，以及为信念勇敢发声的精神。"
+    }
+  },
+  "ourTeamPage": {
+    "title": "认识我们的团队",
+    "subtitle": "致力于帮助您在辩论、模拟联合国和演讲中取得成功的专业教练",
+    "achievements": "成就",
+    "coachTitles": {
+      "headCoach": "总教练",
+      "debateAndPublicSpeakingCoach": "辩论与演讲教练",
+      "debateInstructor": "辩论讲师",
+      "modelUNInstructor": "模拟联合国讲师",
+      "assistantCoach": "助理教练"
+    }
+  },
+  "programs": {
+    "pageTitle": "我们的课程",
+    "pageSubtitle": "发现我们全面的课程设置，旨在培养学生的批判性思维、领导技能和学术卓越，适合所有年龄段的学生。",
+    "debate": {
+      "title": "辩论课程",
+      "name": "辩论",
+      "description": "批判性思维和说服性沟通。",
+      "section1": {
+        "title": "适合所有水平的全面辩论培训",
+        "content": "我们的辩论课程旨在培养学生的批判性思维、说服性沟通能力和公众演讲能力。学生将学习多种辩论形式，包括英式议会制、世界学校赛制和加式议会制。通过有组织的比赛、训练课程和专家指导，学生将建立自信，并掌握有效论证的艺术。"
+      },
+      "section2": {
+        "title": "为什么选择辩论？",
+        "content": "辩论学生将发展多项重要的生活技能，包括研究能力、逻辑推理，以及在公众面前自信发言的能力。我们的课程培养了众多在本地、全国和国际比赛中获奖的冠军。学生将学会即兴思考、构建有力论点，并以尊重的方式与不同观点进行交流。"
+      },
+      "coaches": {
+        "title": "我们优秀的教练团队",
+        "description": "我们的团队包括WUDC顶级辩手、众多顶级比赛冠军、国家队成员和国家队教练，以及其他杰出的辩论选手。"
+      }
+    },
+    "mockTrial": {
+      "title": "模拟法庭课程",
+      "name": "模拟法庭",
+      "description": "亲身体验法律体系。",
+      "section1": {
+        "title": "通过互动模拟体验法律体系",
+        "content": "我们的模拟法庭课程通过逼真的法庭模拟为学生提供法律体系的实践经验。学生将学习分析法律案件、发展论点并在结构化的审判环境中提供证据。该课程涵盖刑事和民事法律程序，帮助学生理解司法系统如何运作，同时培养批判性思维和公众演讲技能。"
+      },
+      "section2": {
+        "title": "为什么选择模拟法庭？",
+        "content": "模拟法庭参与者将发展重要技能，包括法律推理、证据分析、说服性论证和法庭礼仪。学生将在公众演讲中获得自信，学会在压力下进行批判性思考，并对法律原则有深入理解。我们的课程为学生未来在法律、政治或任何需要分析思维和强大沟通技能的领域的职业做好准备。"
+      }
+    },
+    "modelUN": {
+      "title": "模拟联合国",
+      "name": "模拟联合国",
+      "description": "国际外交和全球问题。",
+      "section1": {
+        "title": "体验国际外交与全球领导力",
+        "content": "我们的模拟联合国课程为学生提供通过联合国会议模拟和委员会工作体验国际外交与全球议题的机会。学生将代表不同国家，研究复杂的全球挑战，并通过谈判、辩论和与来自世界各地同龄人的合作，提出解决方案。"
+      },
+      "section2": {
+        "title": "为什么选择模拟联合国？",
+        "content": "参加模拟联合国的学生将掌握包括研究方法、公众演讲、谈判技巧和全球意识在内的重要技能。学生将学习国际关系、时事新闻和联合国体系。该课程培养领导力、批判性思维，以及在多元团队中有效合作的能力，同时应对现实世界的全球性挑战。"
+      }
+    },
+    "fourInOne": {
+      "title": "4 合 1 全方位辩论课程",
+      "name": "四合一全方位辩论",
+      "description": "综合辩论和公开演讲。",
+      "section1": {
+        "title": "适合 4-7 年级学生的 4 合 1 全方位辩论课程",
+        "content": "本课程专为 4 至 7 年级的年轻学生设计。不同于传统的辩论或演讲课，它将这两种方式与模拟联合国以及新闻分析模块相结合。它为学生提供全面且均衡的学习体验，让学生能够初步接触各个领域。"
+      },
+      "section2": {
+        "title": "为什么选择 4 合 1？",
+        "content": "这种全面的学习方式可以让学生探索他们喜欢和不喜欢的领域。有时，学生可能会在某一领域表现突出，并选择深入学习，即使他们之前没有单独上过该领域的课程（例如模拟联合国）。学生将在多个学科中建立基础技能，同时发现自己的兴趣和优势。"
+      }
+    },
+    "businessCase": {
+      "title": "商业案例竞赛课程",
+      "name": "商业案例竞赛",
+      "description": "分析真实商业场景。",
+      "section1": {
+        "title": "商业问题解决入门",
+        "content": "案例竞赛课程旨在向学生介绍商业问题解决的世界，以及如何提供强有力的演示，为他们在竞赛中的竞争做好准备。"
+      },
+      "section2": {
+        "title": "为什么选择商业案例竞赛？",
+        "content": "学生将发展重要的商业分析技能，包括战略思维、市场研究、财务分析和专业演示技巧。我们的课程为学生应对现实世界的商业挑战以及在本地、全国和国际层面的竞争性案例竞赛做好准备。"
+      }
+    },
+    "fridayWorkshops": {
+      "title": "周五工作坊课程",
+      "name": "周五工作坊",
+      "description": "互动技能和领导力课程。",
+      "section1": {
+        "title": "高级面对面学习体验",
+        "content": "周五工作坊在每个学期的特定周五举行，采用面对面形式，类似于加拿大大学的辩论俱乐部。工作坊分为两个部分。第一部分是由教练准备的关于特定辩论主题的研讨会。与在线课程中讨论的常规主题不同，面对面主题更加高级和复杂。"
+      },
+      "section2": {
+        "title": "为什么选择周五工作坊？",
+        "content": "第二部分涉及练习辩论，学生被分组到团队中相互辩论。这让他们熟悉面对面的辩论，并为面对面的比赛做好准备。学生发展高级辩论技能，建立面对面沟通的信心，并获得宝贵的比赛准备经验。"
+      }
+    },
+    "newsAnalysis": {
+      "title": "新闻分析课程",
+      "name": "新闻分析",
+      "description": "媒体素养和分析技能。",
+      "section1": {
+        "title": "带背景的每周视频新闻摘要",
+        "content": "TBA新闻频道提供每周最重要新闻故事的视频摘要，并附带背景信息，帮助学生理解事件发生的原因及其对世界的意义。每个视频都结合了关于单一主题的多个新闻故事，为学生提供事件的平衡概览。视频融合了最新新闻与历史背景和分析，让观众了解利害关系。"
+      },
+      "section2": {
+        "title": "为什么选择新闻分析？",
+        "content": "这对学习辩论和参加辩论比赛的学生特别有益，因为它帮助他们了解时事并获得宝贵的事实、见解和观点。学生发展批判性媒体素养技能，学会分析复杂的全球问题，并建立对辩论成功至关重要的时事知识坚实基础。"
+      }
+    },
+    "jsoc": {
+      "title": "JSOC课程",
+      "name": "JSOC",
+      "description": "领导力和组织培训。",
+      "section1": {
+        "title": "为顶尖中级学生设计的青少年科学奥林匹克竞赛",
+        "content": "专为顶尖中级科学学生（12-15岁）设计，提供增强和测试他们在化学、物理和生物学方面的理论和实践实验室技能的机会。"
+      },
+      "section2": {
+        "title": "为什么选择JSOC？",
+        "content": "前6名学生将代表加拿大参加国际青少年科学奥林匹克竞赛。第一阶段考试通常在2月举行，第二阶段考试在5月举行。顶尖学生将获得参加9月国家营的资格。参加营地后，学生将参加第三阶段资格赛，竞争国家队6个席位。"
+      }
+    },
+    "brainBee": {
+      "title": "脑科学竞赛课程",
+      "name": "脑科学竞赛",
+      "description": "神经科学知识竞赛。",
+      "section1": {
+        "title": "加拿大全国神经科学竞赛",
+        "content": "加拿大全国脑科学竞赛是一项面向9至12年级高中生的神经科学竞赛。学生将学习大脑和神经科学研究主题，包括记忆、睡眠、智力、情感、感知、压力、衰老、脑成像、神经学、神经递质、遗传学、脑部疾病等。"
+      },
+      "section2": {
+        "title": "为什么选择脑科学竞赛？",
+        "content": "要参加加拿大全国赛，学生必须首先参加加拿大的地区脑科学竞赛。每个官方地区脑科学竞赛的冠军将晋级到加拿大全国赛级别。最后，加拿大全国脑科学竞赛的冠军将晋级到下一级别的竞赛：国际脑科学竞赛。温哥华脑科学竞赛通常在4月下旬举行。"
+      }
+    }
+  },
+  "coaches": {
+    "chris_p": {
+      "achievement1": "7年以上辩论教学经验，学生入选加拿大国家队",
+      "achievement2": "UBC大学法学院在读研究生",
+      "achievement3": "2019 耶鲁大学辩论赛 - 决赛",
+      "achievement4": "2017 英国剑桥大学辩论赛 - 冠军"
+    },
+    "deborah_w": {
+      "achievement1": "2020加拿大大学辩论赛 - 冠军",
+      "achievement2": "多伦多顶级私校高中部辩论教练",
+      "achievement3": "学生在英国剑桥大学辩论赛中，取得第二名",
+      "achievement4": "2018亚洲杯辩论赛 - 冠军队教练"
+    },
+    "charlie_p": {
+      "achievement1": "加拿大法语辩论全国冠军 2017",
+      "achievement2": "泛美法语辩论冠军 2016",
+      "achievement3": "2018-2023年约克豪斯学校辩论和公共演讲教练",
+      "achievement4": "查理的学生入选加拿大国家队，在知名国内国际比赛中获奖"
+    },
+    "jacob_s": {
+      "achievement1": "2022加拿大BP辩论全国冠军",
+      "achievement2": "2022耶鲁大学校际辩论赛决赛选手",
+      "achievement3": "2023世界锦标赛18强晋级队伍",
+      "achievement4": "2020加拿大议会制辩论全国赛最佳辩手"
+    },
+    "giann_l": {
+      "achievement1": "2024 CUSID高中生辩论赛决赛",
+      "achievement2": "加西BP辩论赛1/4决赛, 最佳辩手第7名",
+      "achievement3": "2024春季UBC高中生辩论赛半决赛最佳辩手第9名",
+      "achievement4": "加拿大国家队秋季辩论公开赛最佳辩手第3名"
+    },
+    "alex_l": {
+      "achievement1": "2020, 2021，被选入加拿大国家辩论队",
+      "achievement2": "2022加拿大BP辩论 - 半决赛",
+      "achievement3": "2022 牛津大学辩论赛 - Top Speaker",
+      "achievement4": "2022 Senior全国辩论锦标赛 - Top Speaker"
+    },
+    "adam_b": {
+      "achievement1": "多伦多大学辩论社主席",
+      "achievement2": "2023世界大学生辩论赛 - 16强",
+      "achievement3": "2022加拿大Australs制辩论 - 冠军",
+      "achievement4": "2022 Meta校际辩论赛 - 决赛"
+    },
+    "sean_o": {
+      "achievement1": "2021 加拿大国家辩论队 - 优秀选手",
+      "achievement2": "2021加拿大国家队获得世界赛冠军 - 冠军选手",
+      "achievement3": "世界辩论公开赛WSDC香港赛 - 最佳辩手",
+      "achievement4": "2021 斯坦福大学辩论邀请赛 - 决赛选手"
+    },
+    "ameen_p": {
+      "achievement1": "丰富组织辩论赛事经验, 选举为大型比赛主席",
+      "achievement2": "带领团队组织多场TED演讲, 并发表演讲",
+      "achievement3": "Mock Trial 多伦多大学法律预科比赛 - 冠军",
+      "achievement4": "哈佛大学世界校际辩论邀请赛 TOP 4"
+    },
+    "tanvir_s": {
+      "achievement1": "多伦多大学 Hart House 辩论社 - 副主席",
+      "achievement2": "2021世界大学生辩论赛ESL 1/4决赛裁判",
+      "achievement3": "2021亚洲BP辩论 1/8决赛裁判",
+      "achievement4": "2022 Hart House多大辩论赛 - 决赛主席"
+    },
+    "elgin_l": {
+      "achievement1": "CNDF辩论 Seagram辩论赛 - 冠军",
+      "achievement2": "BP辩论 北美大学生辩论赛 - 决赛选手",
+      "achievement3": "BP辩论 伯明翰公开赛 - 青年组冠军",
+      "achievement4": "WSDC辩论 世界中学生辩论赛 TOP5 team"
+    },
+    "saara_m": {
+      "achievement1": "多伦多大学 - 政治学和亚洲研究 - 双学位",
+      "achievement2": "多大Hart House辩论俱乐部 - 主席",
+      "achievement3": "5年以上辩论教学经验，学生入选加拿大国家队",
+      "achievement4": "2017-2019 加拿大国家队成员"
+    },
+    "annie_l": {
+      "achievement1": "2019 加拿大全国BP辩论赛 - 冠军",
+      "achievement2": "2021斯坦福大学世界学校辩论赛 - 决赛",
+      "achievement3": "2019加拿大高中BP赛 - 全国冠军",
+      "achievement4": "2021 Hart House辩论赛 - 决赛"
+    },
+    "madeline_k": {
+      "achievement1": "2022 LMW辩论联盟地区赛 - 冠军",
+      "achievement2": "2021 哈佛大学世界学校锦标赛 - 半决赛",
+      "achievement3": "2021 加拿大公众演讲全国锦标赛 - 决赛",
+      "achievement4": "2020 VMUN模拟联合国大会 - 最佳代表奖"
+    },
+    "max_w": {
+      "achievement1": "2022哈佛世界学校辩论赛 冠军",
+      "achievement2": "2022世界学校辩论赛 1/4决赛",
+      "achievement3": "英国议会制辩论赛冠军 最佳辩手",
+      "achievement4": "Champion Harvard WSDC 2022"
+    },
+    "max_c": {
+      "achievement1": "2024-2025 CAIMUN 秘书处总干事协作完成规模最大且最具创意委员会项目设计",
+      "achievement2": "2023-2024 CAIMUN 秘书处代表事务副秘书长",
+      "achievement3": "7次担任委员会主席，5次荣获\"最佳代表\"奖项",
+      "achievement4": "2025年 Enhance 商业竞赛冠军"
+    },
+    "william_c": {
+      "achievement1": "2025 UBC大学辩论社主席",
+      "achievement2": "2024 UBC大学辩论社副主席",
+      "achievement3": "组织2025 UBC大学春季高中生辩论赛",
+      "achievement4": "组织2024 UBC大学秋季高中生辩论赛"
+    },
+    "hannah_c": {
+      "achievement1": "UBC大学辩论社外联副主席/首席裁判/平权事务官",
+      "achievement2": "Pacific Academy中学辩论社主席",
+      "achievement3": "2024年加拿大大学辩论全国赛最佳新人队伍公开组八强",
+      "achievement4": "2024年UBC WSDC最佳辩手, 队伍八强"
+    },
+    "varun_l": {
+      "achievement1": "多伦多大学 - 计算机科学与统计学",
+      "achievement2": "2022 & 2023 Hart House辩论邀请赛 - 主裁判",
+      "achievement3": "2022卡尔顿大学BP辩论冠军赛 - 决赛",
+      "achievement4": "2022约翰霍普金斯大学辩论邀请赛 - 主裁判"
+    },
+    "meg_k": {
+      "achievement1": "康奈尔大学在读研究生",
+      "achievement2": "2023 北美大学生辩论赛 - 冠军",
+      "achievement3": "2022、2023世界大学生辩论赛晋级赛",
+      "achievement4": "2023 北美女性辩论赛 - 冠军、最佳辩手"
+    },
+    "naomi_p": {
+      "achievement1": "WUDC世界大学生辩论赛 - 最佳辩手第二名",
+      "achievement2": "NAUDC北美大学辩论赛 - 冠军、最佳辩手",
+      "achievement3": "剑桥大学辩论赛 - 冠军、最佳辩手",
+      "achievement4": "LSE Open伦敦政经学院辩论赛 - 冠军"
+    },
+    "tejas_s": {
+      "achievement1": "2024世界大学生辩论赛(WUDC)决赛 - 最佳辩手",
+      "achievement2": "2023, 2024 HWS Round Robin冠军 - 最佳辩手",
+      "achievement3": "2024 NAUDC北美大学辩论赛决赛 - 最佳辩手第2名",
+      "achievement4": "2022 US National Championships冠军 - 最佳辩手"
+    },
+    "matt_c": {
+      "achievement1": "2022世界大学生辩论赛(WUDC) - 最佳辩手",
+      "achievement2": "2023世界大学生辩论赛半决赛",
+      "achievement3": "2022欧洲大学生辩论赛(EUDC) - 最佳辩手第3名",
+      "achievement4": "2022牛津辩论赛 - 冠军"
+    },
+    "pranav_a": {
+      "achievement1": "2023耶鲁辩论赛 - 1/4决赛",
+      "achievement2": "2023Western辩论赛 - 决赛",
+      "achievement3": "组织并执裁NAUDC 2024",
+      "achievement4": "世界学校辩论赛"
+    },
+    "jasmine_z": {
+      "achievement1": "2025法语辩论全国赛最佳辩手第7名",
+      "achievement2": "2025UBC高中生辩论赛决赛, 最佳辩手第2名",
+      "achievement3": "2025 Western WSDC 1/8决赛",
+      "achievement4": "2024 BP省赛最佳辩手第8名"
+    },
+    "bonnie_l": {
+      "achievement1": "2023 剑桥ICYD辩论赛最佳辩手第9名",
+      "achievement2": "2023 NSDA加拿大世界赛全国第5, 晋级美国赛",
+      "achievement3": "2022 牛津ICYD辩论赛新人决赛",
+      "achievement4": "2022 加拿大BP全国赛Junior组决赛"
+    },
+    "lucy_y": {
+      "achievement1": "2024 CUSID高中生辩论赛半决赛",
+      "achievement2": "2023 乔治城大学秋季辩论赛JVLD冠军",
+      "achievement3": "2023秋季UBC高中生辩论赛Silver组冠军",
+      "achievement4": "2024 加拿大全国演讲竞赛辩论组决赛"
+    },
+    "edward_a": {
+      "achievement1": "2024春季UBC高中生辩论赛决赛",
+      "achievement2": "Lower Mainland North Regionals冠军",
+      "achievement3": "2023加拿大国家队秋季辩论赛半决赛, 最佳辩手",
+      "achievement4": "2024 BP省赛最佳辩手第9名"
+    },
+    "george_w": {
+      "achievement1": "Canadian National Open决赛",
+      "achievement2": "Lower Mainland North Regionals冠军",
+      "achievement3": "BC省赛最佳辩手前4",
+      "achievement4": "2024冬季Western高中生辩论赛半决赛"
+    },
+    "aiden_h": {
+      "achievement1": "2024 Western BP辩论赛最佳辩手第一名",
+      "achievement2": "2024 Paris世界学校辩论赛最佳辩手第一名",
+      "achievement3": "2023 U Ottowa辩论赛冠军, 最佳辩手第二名",
+      "achievement4": "2023 uOttowa CNDF辩论赛冠军"
+    },
+    "jack_w": {
+      "achievement1": "Sir Winston Churchill SS辩论社主席",
+      "achievement2": "举办Sir Winston Churchill辩论赛，收益全部捐赠儿童医院",
+      "achievement3": "LMDS负责人之一",
+      "achievement4": "Lower Mainland Debate Society - Executive and Volunteer Coach"
+    },
+    "henry_g": {
+      "achievement1": "2022 Western秋季高中生辩论赛半决赛",
+      "achievement2": "2022 SFU世界学校辩论赛Gold组决赛",
+      "achievement3": "2022 CUSID高中生辩论赛Junior组前5",
+      "achievement4": "2022年起担任Magee辩论社主席"
+    },
+    "ashley_p": {
+      "achievement1": "2024全国法语辩论赛第9名",
+      "achievement2": "加西BP辩论赛1/4决赛",
+      "achievement3": "2025 法语全国辩论赛决赛、小组第三名",
+      "achievement4": "2023 Hart House Summer Split冠军"
+    },
+    "miranda_s": {
+      "achievement1": "2023年BC省BP省赛决赛, 晋级全国赛",
+      "achievement2": "Queen's大学高中生夏季辩论赛Junior组冠军",
+      "achievement3": "2024年UBC春季高中生辩论赛半决赛",
+      "achievement4": "2024年UBC秋季高中生辩论赛半决赛"
+    },
+    "briana_l": {
+      "achievement1": "Brown University 布朗大学双专业在读",
+      "achievement2": "布朗大学辩论社 3年辩论执教经验",
+      "achievement3": "2020 乔治城大学辩论赛 冠军",
+      "achievement4": "2020 耶鲁大学辩论邀请赛 最佳辩手第9名"
+    },
+    "emily_z": {
+      "achievement1": "2024/2025年加拿大国家队辩手",
+      "achievement2": "CNDF全国赛 - 最佳辩手第二名",
+      "achievement3": "2023/2024年BC省BP省赛冠军",
+      "achievement4": "2021年CNDF青少年全国赛"
+    },
+    "emily_c": {
+      "achievement1": "多年商业竞赛指导经验",
+      "achievement2": "2025年WUDC世界大学生辩论赛 - 加拿大第三名",
+      "achievement3": "2025年CUDC加拿大大学辩论赛 - 首席裁判",
+      "achievement4": "2021年Doxbridge辩论赛 - 决赛选手"
+    }
+  }
+}
