@@ -61,6 +61,16 @@ export const Background = () => {
             <h1 className="hero-title">{t("hero.title")}</h1>
             <h2 className="hero-subtitle">{t("hero.subtitle")}</h2>
             <p className="hero-tagline">{t("hero.tagline")}</p>
+            <div className="hero-online-promo">
+              <span className="hero-online-badge">ONLINE PROGRAM</span>
+              <h3>Learn from globally award-winning coaches.</h3>
+              <p>
+                Join students from anywhere in the world for expert-led debate and
+                public speaking training.
+              </p>
+              <a href="/register">Explore the program →</a>
+            </div>
+           
           </div>
         </div>
       </div>

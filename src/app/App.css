@@ -3925,3 +3925,52 @@ div:has(.content-wrapper) {
     font-size: 0.9rem;
   }
 }
+.hero-online-promo {
+  width: min(480px, 90vw);
+  margin-top: 28px;
+  padding: 24px 28px;
+  background: linear-gradient(135deg, #a52a20, #6e1714);
+  border: 2px solid white;
+  border-radius: 14px;
+  color: white;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.hero-online-badge {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 6px 12px;
+  background: #ffd35a;
+  color: #6e1714;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.hero-online-promo h3 {
+  margin: 0 0 8px;
+  font-size: 1.5rem;
+}
+
+.hero-online-promo p {
+  margin: 0 0 16px;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.hero-online-promo a {
+  color: white;
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .hero-online-promo {
+    padding: 18px;
+  }
+
+  .hero-online-promo h3 {
+    font-size: 1.2rem;
+  }
+}
