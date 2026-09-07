@@ -39,17 +39,6 @@ export const Locations = () => {
       </div>
       <Map />
       <h3 className="contact-info-title">Contact Info</h3>
-      <div className="locations-content">
-        {locations.map((location, index) => (
-          <Location
-            key={location.key}
-            locationKey={location.key}
-            imageSrc={location.image}
-            altText={location.alt}
-            imageOnLeft={location.imageOnLeft}
-          />
-        ))}
-      </div>
     </div>
   );
 };
