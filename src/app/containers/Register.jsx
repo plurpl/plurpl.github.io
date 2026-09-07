@@ -149,10 +149,7 @@ export const Register = () => {
                 )}
               </div>
 
-              <div className="form-group">
-                <label htmlFor="location">
-                  {t("contact.registerPage.location")} *
-                </label>
+      
                
               </div>
             </div>
