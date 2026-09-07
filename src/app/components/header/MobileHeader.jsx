@@ -50,7 +50,6 @@ export const MobileHeader = ({ isOpen, toggleMenu }) => {
       subRoutes: [
         { path: "/about/our-story", label: t("header.dropdown.ourStory") },
         { path: "/about/our-team", label: t("header.dropdown.ourTeam") },
-        { path: "/about/locations", label: t("header.navigation.locations") },
       ],
     },
     {

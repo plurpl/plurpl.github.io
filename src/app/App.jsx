@@ -14,7 +14,6 @@ import { NewsAnalysis } from "./containers/programs/NewsAnalysis";
 import { BrainBee } from "./containers/programs/BrainBee";
 import { JSOC } from "./containers/programs/JSOC";
 import { MockTrial } from "./containers/programs/MockTrial";
-import { Locations } from "./containers/Locations";
 import Programs from "./containers/programs/Programs";
 import { Header } from "./components/header/Header";
 import { Footer } from "./components/footer/Footer";
@@ -40,7 +39,6 @@ function App() {
           <Route path="/about" element={<OurStory />} />
           <Route path="/about/our-story" element={<OurStory />} />
           <Route path="/about/our-team" element={<OurTeam />} />
-          <Route path="/about/locations" element={<Locations />} />
           <Route path="/programs" element={<Programs />} />
           <Route path="/programs/debate" element={<Debate />} />
           <Route path="/programs/mock-trial" element={<MockTrial />} />

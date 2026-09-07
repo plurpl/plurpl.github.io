@@ -81,9 +81,6 @@ export const Header = () => {
                     <Link to="/about/our-team">
                       {t("header.dropdown.ourTeam")}
                     </Link>
-                    <Link to="/about/locations">
-                      {t("header.navigation.locations")}
-                    </Link>
                   </div>
                 )}
               </li>
