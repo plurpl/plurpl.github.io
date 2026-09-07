@@ -163,18 +163,6 @@ export const Register = () => {
                   required
                   className={`form-select ${getSelectErrorClass("location")}`}
                 >
-                  <option value="online">
-                    {t("contact.registerPage.online")}
-                  </option>
-                  <option value="burnaby">
-                    {t("contact.registerPage.burnaby")}
-                  </option>
-                  <option value="south-surrey">
-                    {t("contact.registerPage.southSurrey")}
-                  </option>
-                  <option value="west-vancouver">
-                    {t("contact.registerPage.westVancouver")}
-                  </option>
                 </select>
                 {validationErrors.location && (
                   <span className="field-error">
