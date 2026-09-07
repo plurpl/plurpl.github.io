@@ -64,7 +64,7 @@ export const Register = () => {
     setShowValidationErrors(false);
 
     try {
-      const response = await fetch("https://formspree.io/f/manjkapw", {
+      const response = await fetch("https://formspree.io/f/xaeypawk", {
         method: "POST",
         body: formData,
         headers: {

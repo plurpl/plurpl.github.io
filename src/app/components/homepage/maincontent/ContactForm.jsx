@@ -12,7 +12,7 @@ export const ContactForm = () => {
     const formData = new FormData(e.target);
 
     try {
-      const response = await fetch("https://formspree.io/f/manjkapw", {
+      const response = await fetch("https://formspree.io/f/xaeypawk", {
         method: "POST",
         body: formData,
         headers: {
