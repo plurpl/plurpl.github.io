@@ -68,7 +68,6 @@ export const Background = () => {
                 Join students from anywhere in the world for expert-led debate and
                 public speaking training.
               </p>
-              <a href="/register">Explore the program →</a>
             </div>
            
           </div>
