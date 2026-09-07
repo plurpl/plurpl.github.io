@@ -16,10 +16,6 @@ export const Register = () => {
       errors.preferredLanguage = "Please select a preferred language";
     }
 
-    if (!formData.get("location")) {
-      errors.location = "Please select a location";
-    }
-
     if (!formData.get("firstName")?.trim()) {
       errors.firstName = "First name is required";
     }
@@ -157,18 +153,7 @@ export const Register = () => {
                 <label htmlFor="location">
                   {t("contact.registerPage.location")} *
                 </label>
-                <select
-                  id="location"
-                  name="location"
-                  required
-                  className={`form-select ${getSelectErrorClass("location")}`}
-                >
-                </select>
-                {validationErrors.location && (
-                  <span className="field-error">
-                    {validationErrors.location}
-                  </span>
-                )}
+               
               </div>
             </div>
 
